@@ -1,0 +1,40 @@
+h1 {
+  color:floralwhite;
+  font-size:50px;
+margin-left: 462px;
+  background:black;
+  font-family:arial;
+  
+}
+
+body{background:black;}
+
+img{
+  width:500px;
+margin-left: 500px;
+}
+
+p{
+ color:floralwhite;
+margin-left: 250px;
+margin-right: 250px;
+outline-color: black;
+}
+
+h2{ font-size: 35px;
+margin-left: 200px;
+color: white;}
+
+h3{font-size: 35px;
+margin-left: 200px;
+color: white;}
+
+#book{width:250px;
+margin-right: 200px;}
+
+#food {
+    width: 250px;
+    margin-right: 200px;
+}
+
+#fd{font-size: 20px;}
